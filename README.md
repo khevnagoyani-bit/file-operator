@@ -99,8 +99,6 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/personal-journal-manager.git
-
 Move into the project folder:
 
 cd personal-journal-manager
