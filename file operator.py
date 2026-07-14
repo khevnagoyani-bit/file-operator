@@ -1,8 +1,3 @@
-import os
-from datetime import datetime
-
-filename = "journal.txt"
-
 while True:
     print("\nWelcome to Personal Journal Manager!")
     print("1. Add a New Entry")
