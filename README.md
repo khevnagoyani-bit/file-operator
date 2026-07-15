@@ -1,3 +1,8 @@
+# video explain
+
+https://drive.google.com/file/d/1gq_VYzZXCWfqpXP1NtzqrDyazC2-RtTI/view?usp=drivesdk
+
+
 # file-operator
 
 📖 Personal Journal Manager
